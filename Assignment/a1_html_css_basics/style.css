@@ -206,3 +206,13 @@ article p {
     width: 280px;
   }
 }
+.rotating-square {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation: spin 2s linear infinite;
+}
+ @keyframes spin {
+      from { transform: rotate(0deg); }
+      to   { transform: rotate(360deg); }
+    }
