@@ -13,7 +13,6 @@ function greet(name) {
 
 console.log(greet("Asha"));
 
-
 // Arrow function
 
 const greetUser = (name) => {
