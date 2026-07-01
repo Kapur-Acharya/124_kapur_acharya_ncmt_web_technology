@@ -37,6 +37,7 @@ Core Concepts:
 
 09 - Replacing Java Applets with JavaScript
 
+
 10 - Browser Storage
     localStorage
     sessionStorage
