@@ -15,6 +15,7 @@ const message = `Hello, ${studentName}`;
 console.log(message); // Hello, Asha
 
 
+
 // Using expressions inside a string
 
 const a = 5;
