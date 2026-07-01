@@ -22,6 +22,7 @@ title.textContent = "Hello DOM";
 
 const button = document.querySelector("#button");
 
+
 button.addEventListener("click", () => {
     title.textContent = "Button clicked";
 });
