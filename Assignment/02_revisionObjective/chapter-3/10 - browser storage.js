@@ -10,6 +10,7 @@
  * localStorage saves data until we remove it.
  */
 
+
 localStorage.setItem("name", "Asha");
 
 console.log(localStorage.getItem("name")); // Asha
