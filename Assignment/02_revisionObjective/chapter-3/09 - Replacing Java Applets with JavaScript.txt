@@ -7,6 +7,7 @@ Replacing Java Applets with JavaScript
     JavaScript is used instead.
 
 
+
 Why JavaScript replaced Java Applets:
 
     1. JavaScript runs directly in the browser.
