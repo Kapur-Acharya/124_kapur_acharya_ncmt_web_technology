@@ -17,6 +17,7 @@ name = "Ram";
 console.log(name); // Ram
 
 
+
 // const
 /**
  * Use const when the value should not be changed.
