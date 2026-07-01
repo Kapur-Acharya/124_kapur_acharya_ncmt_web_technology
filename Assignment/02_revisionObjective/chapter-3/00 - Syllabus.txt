@@ -1,6 +1,7 @@
 This is the syllabus of chapter 3
 
 
+
 01 - Modern JavaScript (ES6+) — Core Concepts
 
 
