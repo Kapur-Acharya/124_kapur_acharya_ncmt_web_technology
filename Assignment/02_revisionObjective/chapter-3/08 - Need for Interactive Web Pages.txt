@@ -4,6 +4,7 @@ Need for Interactive (Active) Web Pages
     An interactive web page responds to the user.
 
 
+
 Why interactive pages are needed:
 
     1. They make websites easier to use.
