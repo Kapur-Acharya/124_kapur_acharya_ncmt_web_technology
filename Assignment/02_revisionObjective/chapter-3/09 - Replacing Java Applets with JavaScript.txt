@@ -1,0 +1,26 @@
+Replacing Java Applets with JavaScript
+
+    Java Applets were old programs used inside web pages.
+    They were used for games, animations, and interactive tools.
+
+    Modern browsers do not support Java Applets now.
+    JavaScript is used instead.
+
+
+Why JavaScript replaced Java Applets:
+
+    1. JavaScript runs directly in the browser.
+
+    2. It does not need an extra plugin.
+
+    3. It is safer and easier for users.
+
+    4. It works well on computers and mobile devices.
+
+    5. It can create games, forms, animations, and active pages.
+
+
+Conclusion:
+
+    JavaScript replaced Java Applets because it is simpler,
+    faster, and supported by modern browsers.

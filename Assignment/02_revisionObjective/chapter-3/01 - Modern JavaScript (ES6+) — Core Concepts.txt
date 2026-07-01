@@ -1,0 +1,43 @@
+JavaScript
+    JavaScript is the programming language that makes websites
+    interactive and alive. While HTML and CSS build and style a web page.
+    
+Modern JavaScript (ES6+)
+
+    Modern JavaScript (ES6+) is the updated version of the JavaScript language
+    that introduced cleaner shortcuts and smarter features to make coding faster and more efficient.
+
+Core Concepts:
+
+02 - Variables in ES6:
+    let
+    const
+
+03 - Arrow Functions
+
+04 - Template Literals
+
+05 - Destructuring:
+    Array Destructuring
+    Object Destructuring
+
+06 - Arrays in ES6+:
+    map()
+    filter()
+    reduce()
+    Spread Operator (...)
+    Rest Operator (...)
+
+07 - DOM Manipulation
+    Selecting Elements
+    Events
+    Event Delegation
+
+08 - Need for Interactive (Active) Web Pages
+
+09 - Replacing Java Applets with JavaScript
+
+10 - Browser Storage
+    localStorage
+    sessionStorage
+    Cookies

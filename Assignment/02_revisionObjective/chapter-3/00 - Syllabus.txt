@@ -1,0 +1,38 @@
+This is the syllabus of chapter 3
+
+
+01 - Modern JavaScript (ES6+) — Core Concepts
+
+
+02 - let/const
+
+03 - arrow functions
+
+04 - template literals
+
+05 - destructuring
+
+06 - Arrays:
+     map
+     filter
+     reduce
+     spread/rest operators
+
+07 - DOM manipulation:
+    
+     selecting elements
+     events
+     eventdelegation
+
+
+08 - Need for interactive (active) web pages
+
+
+09 - replacing Java Applets with JS
+
+
+10 -Introduction to browser storage:
+
+     localStorage
+     sessionStorage
+     Cookies

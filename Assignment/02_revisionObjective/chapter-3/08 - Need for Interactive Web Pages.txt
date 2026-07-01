@@ -1,0 +1,30 @@
+Need for Interactive (Active) Web Pages
+
+    A normal web page only shows information.
+    An interactive web page responds to the user.
+
+
+Why interactive pages are needed:
+
+    1. They make websites easier to use.
+
+    2. They give quick feedback.
+       Example: showing an error if an email is wrong.
+
+    3. They update content without reloading the full page.
+
+    4. They help users do tasks.
+       Example: search, login, form submit, add to cart.
+
+
+Examples:
+
+    - Clicking a button
+    - Typing in a form
+    - Opening a menu
+    - Searching live results
+
+
+Conclusion:
+
+    JavaScript is used to make web pages active and interactive.
